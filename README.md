@@ -35,3 +35,6 @@ make create-venv
 ```
 make run-server
 ```
+
+### URL do projeto
+- /api/v1/products/create
