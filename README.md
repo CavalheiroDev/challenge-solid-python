@@ -2,7 +2,7 @@
 
 ## Ambiente de desenvolvimento - Ubuntu
 ### Requisitos
-`python 3.9.12
+- python 3.9.12
 ```
 $ sudo apt-get install python3
 $ sudo apt-get install make
